@@ -1,0 +1,16 @@
+20127674 - Lê Đức Đạt
+20127552 - Vương Huỳnh Tấn Lộc
+19127359 - Trương Diệu Đạt
+-----------------------------------------
+Trong thư mục Official có:
+Folder: LATEX + image report.
+File .ipynb: Code.
+-----------------------------------------
+Phân công công việc thực hành:
+20127674: Làm từ Report tới code.
+19127359: Làm 1 tí report nhưng không đáng kể.
+20127552: Không làm gì cả.
+-----------------------------------------
+Phân công công việc lí thuyết:
+20127674: Làm từ code đến slide.
+19127359 và 20127552: Làm slide nhưng tỉ lệ ít.
